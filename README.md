@@ -1,4 +1,4 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm Jenny
 
 Welcome to my GitHub!
 I'm passionate about data analytics, business intelligence, and cloud technologies.
